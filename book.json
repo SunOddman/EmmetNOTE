@@ -1,3 +1,13 @@
 {
-
+    "title" : "Emmet Note",
+    "description" : "Emmet笔记",
+    "author" : "SunOddman",
+    "generator" : "site",
+    "language" : "zh-hans",
+    "gitbook" : "3.2.0",
+    "links" : {
+        "sidebar" : {
+            "Home" : ""
+        }
+    }
 }
