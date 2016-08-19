@@ -48,8 +48,8 @@
             "facebook": true, 
             "twitter": true, 
             "google": true, 
-            "instapaper": "false", 
-            "vk": "false", 
+            "instapaper": false, 
+            "vk": false, 
             "all": [ 
                 "facebook", 
                 "google", 
