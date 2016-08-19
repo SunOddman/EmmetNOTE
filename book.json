@@ -5,7 +5,11 @@
     "generator": "site", 
     "language": "zh-hans", 
     "gitbook": "3.2.0", 
-    "links": { "sidebar": { "Home": "https://github.com/SunOddman" } }, 
+    "links": { 
+        "sidebar": { 
+            "Home": "https://github.com/SunOddman" 
+        } 
+    }, 
     "plugins": [ "disqus", "-search", "search-pro", "advanced-emoji", "github", "ace", "emphasize", "katex", "anchors", "include-codeblock", "mermaid", "tbfed-pagefooter", "sectionx", "expandable-chapters", "codeblock-filename", "sitemap", "donate", "local-video", "toc", "edit-link" ], 
     "pluginsConfig": { "disqus": { "shortName": "Emmet Note" }, "github": { "url": "https://github.com/SunOddman" }, "search-pro": { "cutWordLib": "nodejieba", "defineWord": ["gitbook-use"] },
  "sharing": { "weibo": "true", "facebook": "true", "twitter": "true", "google": "true", "instapaper": "false", "vk": "false", "all": [ "facebook", "google", "twitter", "weibo", "instapaper" ] },
