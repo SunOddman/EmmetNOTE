@@ -44,7 +44,7 @@
             "defineWord": ["gitbook-use"] 
         },
         "sharing": { 
-            "weibo": "true", 
+            "weibo": true, 
             "facebook": "true", 
             "twitter": "true", 
             "google": "true", 
